@@ -1,0 +1,13 @@
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.exe
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.deps.json
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.runtimeconfig.json
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.runtimeconfig.dev.json
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.dll
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\bin\Debug\netcoreapp3.1\TicTacToeProblem.pdb
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.csproj.AssemblyReference.cache
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.AssemblyInfoInputs.cache
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.AssemblyInfo.cs
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.csproj.CoreCompileInputs.cache
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.dll
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.pdb
+C:\Users\Sona G\source\repos\TicTacToeProblem\TicTacToeProblem\obj\Debug\netcoreapp3.1\TicTacToeProblem.genruntimeconfig.cache
