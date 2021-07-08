@@ -6,9 +6,11 @@ namespace TicTacToeProblem
     {
         static void Main(string[] args)
         {
+            char[] createBoard;
             Game obj = new Game();
-            char[] createBoard=obj.Board();
-            char player = obj.Player();
+            createBoard=obj.Board();
+            string player = obj.Player();
+           obj.ShowBoard(createBoard);
         }
     }
 }
