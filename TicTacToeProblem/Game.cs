@@ -7,15 +7,30 @@ namespace TicTacToeProblem
     class Game
     {
 
-     public void Board()
+        public char[] Board()
         {
-            char[] CreateBoard = {'0','0','0', '0','0','0','0','0','0','0' };
-            Console.WriteLine("     |     |      ");
-            Console.WriteLine("_____|_____|_____ ");
-            Console.WriteLine("     |     |      ");
-            Console.WriteLine("_____|_____|_____ ");
-            Console.WriteLine("     |     |      ");
-            Console.WriteLine("     |     |      ");
+            char[] createBoard = new char[10];
+            for (int i=1;i<=createBoard.Length;i++)
+            {
+                createBoard[i] = ' ';
+            }
+            return createBoard;
+        }
+
+        public char Player()
+        {
+            char[] choice = new char[] { 'X', 'O' };
+            Console.WriteLine("Choose X or O ");
+            char playerChoice = char.Parse(Console.ReadLine());
+            if (playerChoice == choice[0])
+            {
+                playerChoice = choice[0];
+            }
+            else
+            {
+                playerChoice = choice[1];
+            }
+            return  playerChoice;
         }
     }
 }
